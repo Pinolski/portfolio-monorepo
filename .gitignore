@@ -1,0 +1,28 @@
+# Node modules
+node_modules/
+.pnpm/
+.pnpm-debug.log
+
+# Nuxt build output
+.nuxt/
+dist/
+output/
+
+# Tailwind build output
+*.css.d.ts
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# IDE/OS
+.DS_Store
+.vscode/
+.idea/
+*.swp
+
+# Environment variables
+.env
+.env.*
